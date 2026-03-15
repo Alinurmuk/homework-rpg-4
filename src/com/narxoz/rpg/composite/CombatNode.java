@@ -1,5 +1,4 @@
 package com.narxoz.rpg.composite;
-
 import java.util.List;
 
 public interface CombatNode {
