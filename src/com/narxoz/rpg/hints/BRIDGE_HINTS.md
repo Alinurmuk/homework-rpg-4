@@ -11,7 +11,7 @@ Separate skill abstraction from effect implementation so both can evolve indepen
 
 ## What To Avoid
 - Hardcoding fire/ice/shadow calculations inside each skill class.
-- Creating classes like `FireSlash`, `IceSlash`, `FireStorm`, `IceStorm`.
+- Creating classes like `FireSlash`, `IceSlaash`, `FireStorm`, `IceStorm`.
 
 ## Check Yourself
 - Can one skill work with multiple effects without code duplication?

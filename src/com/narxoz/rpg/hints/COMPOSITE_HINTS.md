@@ -14,7 +14,7 @@ Treat single units and groups through one shared interface (`CombatNode`).
 - Nested composites must work recursively.
 
 ## What To Avoid
-- Engine logic that checks concrete class type with `instanceof`.
+- Engine logic thaat checks concrete class type with `instanceof`.
 - Separate code paths for unit vs group in battle logic.
 
 ## Check Yourself
